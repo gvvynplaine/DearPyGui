@@ -1,0 +1,136 @@
+[
+    {
+        "__layout__": true,
+        "name": "Tree1",
+        "layoutItems": [
+            {
+                "__app__": true,
+                "name": "App",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App.py",
+                "parent": "Tree1"
+            },
+            {
+                "__container__": true,
+                "name": "Container 1",
+                "parent": "Tree1"
+            },
+            {
+                "__app__": true,
+                "name": "App2",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Container 1"
+            },
+            {
+                "__app__": true,
+                "name": "App3",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Container 1"
+            },
+            {
+                "__app__": true,
+                "name": "App4",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Tree1"
+            },
+            {
+                "__container__": true,
+                "name": "Container 2",
+                "parent": "Tree1"
+            },
+            {
+                "__app__": true,
+                "name": "App5",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Container 2"
+            },
+            {
+                "__app__": true,
+                "name": "App6",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Container 2"
+            },
+            {
+                "__container__": true,
+                "name": "Container 3",
+                "parent": "Container 2"
+            },
+            {
+                "__app__": true,
+                "name": "App7",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Container 3"
+            },
+            {
+                "__app__": true,
+                "name": "App8",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Container 3"
+            },
+            {
+                "__app__": true,
+                "name": "Plotting",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Tree1"
+            },
+            {
+                "__app__": true,
+                "name": "App9",
+                "directory": "C:/Dev/MarvelSandbox/AppSamples/App2.py",
+                "parent": "Tree1"
+            },
+            {
+                "__app__": true,
+                "name": "App10",
+                "directory": "C:\\Users\\Preston\\Desktop\\App.py",
+                "parent": "Tree1"
+            },
+            {
+                "__app__": true,
+                "name": "App11",
+                "directory": "",
+                "parent": "Tree1"
+            },
+            {
+                "__app__": true,
+                "name": "extra",
+                "directory": "",
+                "parent": "Tree1"
+            }
+        ]
+    },
+    {
+        "__layout__": true,
+        "name": "second layout",
+        "layoutItems": [
+            {
+                "__container__": true,
+                "name": "first Menu Group",
+                "parent": "second layout"
+            },
+            {
+                "__app__": true,
+                "name": "first app",
+                "directory": "appytiy",
+                "parent": "first Menu Group"
+            },
+            {
+                "__app__": true,
+                "name": "th app",
+                "directory": "appytiy",
+                "parent": "first Menu Group"
+            },
+            {
+                "__app__": true,
+                "name": "second app",
+                "directory": "appytiy",
+                "parent": "second layout"
+            },
+            {
+                "__app__": true,
+                "name": "last app",
+                "directory": "appytiy",
+                "parent": "second layout"
+            }
+        ]
+    }
+]
